@@ -71,7 +71,7 @@ Focus Areas:
   <a href="mailto:hemsjashti1902@gamil.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/hemsjashti.dev">
+  <a href="https://www.instagram.com/hemsjashti/#">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
